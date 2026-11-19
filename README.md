@@ -1,5 +1,7 @@
 # Drisp MCP — 3D device mockups for app and website screenshots
 
+[![AllMCPs Verified](https://allmcps.com/api/badge/drisp)](https://allmcps.com/mcp/drisp?verify=48c7354b-71af-48d3-be6f-d1abe111ac9e)
+
 **Drisp** puts a screenshot of an app or a website on a device mockup and gives back a PNG. The devices are drawn in 3D with real glass and light by Drint's render engine: every iPhone from the 12 to the 18 Pro, iPads, a MacBook, Apple Watch, a Galaxy phone, a laptop and a monitor — about 100 devices.
 
 This repository holds the setup files for the **hosted** Drisp MCP server. There is nothing to install or run:
