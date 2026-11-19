@@ -9,7 +9,7 @@ https://drint.io/drisp/mcp
 ```
 
 - Transport: Streamable HTTP
-- Sign-in: none. Free pictures are up to 1024 px with a light watermark grid, about 20 an hour per address. Clean and larger pictures are made at [drint.io/drisp](https://drint.io/drisp).
+- Sign-in: optional. Without it, pictures are up to 1024 px with a light watermark grid, about 20 an hour per address. Ask for a clean picture (`clean: true`) or a size above 1024 and your app asks you to sign in to Drint (OAuth, nothing to paste): a [Drisp Pro](https://drint.io/drisp/pricing) account gets clean pictures up to 2048 px, 60 an hour.
 - Website: [drint.io/drisp](https://drint.io/drisp)
 
 ## Tools
@@ -17,7 +17,7 @@ https://drint.io/drisp/mcp
 | Tool | What it does |
 |---|---|
 | `list_devices` | The devices Drisp can draw, each with the screenshot size in pixels that fills its screen exactly, and its page on drint.io |
-| `device_mockup` | A screenshot (public https link, or base64 PNG / JPEG / WebP up to 10 MB) on one device, returned as a PNG link kept for an hour |
+| `device_mockup` | A screenshot (public https link, or base64 PNG / JPEG / WebP up to 10 MB) on one device, returned as a PNG link kept for an hour. Options: `size` (512, 1024; 1536 and 2048 with Drisp Pro), `clean` (Drisp Pro), `background` ("transparent" or a colour), `frame` colour |
 
 ## Connect
 
