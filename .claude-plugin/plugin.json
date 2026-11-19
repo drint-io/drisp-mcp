@@ -1,0 +1,10 @@
+{
+  "name": "drisp",
+  "version": "1.0.0",
+  "description": "Device mockups in Claude Code: put an app or website screenshot on an iPhone, iPad, MacBook, Apple Watch or monitor, rendered in 3D, and get a PNG.",
+  "author": { "name": "Drint", "email": "support@drint.io", "url": "https://drint.io" },
+  "homepage": "https://drint.io/drisp",
+  "repository": "https://github.com/drint-io/drisp-mcp",
+  "license": "MIT",
+  "keywords": ["device mockup", "app screenshot", "iphone mockup", "ipad mockup", "macbook mockup", "app store", "screenshot", "mockup", "mcp"]
+}

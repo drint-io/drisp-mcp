@@ -1,0 +1,6 @@
+{
+  "name": "drisp",
+  "version": "1.0.0",
+  "description": "Put app and website screenshots on 3D device mockups with Drisp, hosted at https://drint.io/drisp/mcp.",
+  "mcpServers": { "drisp": { "httpUrl": "https://drint.io/drisp/mcp" } }
+}

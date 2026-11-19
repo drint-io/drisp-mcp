@@ -1,0 +1,8 @@
+{
+  "name": "drisp",
+  "owner": { "name": "Drint", "email": "support@drint.io" },
+  "metadata": { "description": "Drisp device mockups for Claude Code" },
+  "plugins": [
+    { "name": "drisp", "source": "./", "description": "Put app and website screenshots on 3D device mockups, from drint.io/drisp/mcp", "category": "design" }
+  ]
+}

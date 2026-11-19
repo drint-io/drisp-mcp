@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.drint/drisp",
+  "title": "Drisp",
+  "description": "Put an app or website screenshot on a 3D device mockup (iPhone, iPad, MacBook, watch) as a PNG.",
+  "version": "1.0.0",
+  "icons": [ { "src": "https://drint.io/drisp/favicon.svg", "mimeType": "image/svg+xml" } ],
+  "websiteUrl": "https://drint.io/drisp",
+  "repository": { "url": "https://github.com/drint-io/drisp-mcp", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://drint.io/drisp/mcp" } ]
+}
